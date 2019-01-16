@@ -17,6 +17,11 @@ h2 {
 	font-size: 1em;
 	margin: 0;
 }
+img {
+	max-width: 100%;
+	height: auto;
+	margin-top: 0;	
+}
 p {
 	margin: 0;
 }
