@@ -21,7 +21,7 @@ img {
 	max-width: 50%;
 	height: auto;
 	margin-top: 2em;
-	align: center;
+	align-right; 5em;
 }
 p {
 	margin: 0;
