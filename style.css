@@ -20,7 +20,8 @@ h2 {
 img {
 	max-width: 50%;
 	height: auto;
-	margin-top: 2em;	
+	margin-top: 2em;
+	align: left;
 }
 p {
 	margin: 0;
